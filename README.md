@@ -1,4 +1,6 @@
 # Sprint 2
+GIT REPO: https://github.com/ramyaswetha11/Sprint2_Ramya
+
 Except abstract factory pattern in sprint 1, there are totally 3 new patterns implemented
 
 ### Builder Pattern
